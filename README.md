@@ -69,7 +69,7 @@ Resources to help you kick start your journey in Data Analytics!
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: [https://linkedin.com/in/mainiaher](https://www.linkedin.com/in/mainia-her-399aa72b4/)
+[linkedin]: (https://www.linkedin.com/in/mainia-her-399aa72b4/)
 
 
 Here are some ideas to get you started:
