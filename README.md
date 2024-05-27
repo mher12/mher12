@@ -11,6 +11,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
 
 
 <h2><b>Table of Contents</b>
+
 <li>About</li>
 <li>Table of Contents</li>
 <li>Portfolio Projects</li>
