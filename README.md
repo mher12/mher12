@@ -23,7 +23,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
   	+ [Video Games Sales Analysis](#video-games-sales-analysis)
  - [Resources](#resources)
   	+ [Video Games Sales Analysis](#video-games-sales-analysis) 	
-- [Let's Connect](#let-'-s-connect)
+- [Let's Connect](#let\'\s-connect)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to perform analysis and analytics to generate insights.
