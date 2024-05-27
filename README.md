@@ -28,7 +28,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Employee Salary Report
 **Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
-**Description:** The dataset contained two tables. One table contains Employee department and salary information with 50 records. The second contains the bonus amount in which are associated to each employee with 44 records. The task was to clean up the data set and perform statistical analysis and create a relationship between two tables using X-Lookup.
+**Description:** The dataset contained two tables. One table contains Employee department and salary information with 50 records. The second contains the bonus amount in which are associated to each employee with 44 records. The task was to clean up the data set and perform statistical analysis and create a relationship between two tables using X-Lookup.  
 **Skills:** data cleaning, data analysis, descriptive statistics  
 **Technology:** Excel.  
 **Results:** Review Employee demographics and assigne appropriate bonus percentage accordingly.  
