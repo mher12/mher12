@@ -9,15 +9,21 @@ This curiosity and thirst for knowledge led me to enroll as a student in the Goo
 I would love to connect to see what I can do to help you, or if you have any feedback, I would love to learn and grow together as I truly believe in being a life long learner!
 </p>
 
-<h2>Data Analyst Projects:</h2>
-- <b>Data Structures and Algorithms Practice(Excel)</b>
-  <li><a href="https://github.com/mher12/ExcelSalesReport"> Sales Report with Excel</li>
-- <b>Data Visualization</b>
--<b>SQL</b>
--<b>Tableau</b>
-  - [Image Analysis Middleware](https://github.com/) <b><i></b></i>
-- <b>Data Structures and Algorithms Practice with Python</b>
-  - [FIM (File Integrity Monitor)](https://github.com/)
+<h2>Portfolio Projects:</h2>
+<b>Data Structures and Algorithms Practice(Excel)</b>
+<li><a href="https://github.com/mher12/ExcelSalesReport"> Sales Report with Excel</li>
+<b>SQL</b>
+<li></li>
+<b>Tableau</b>
+<li></li>
+
+<h2>Self-study Projects:</h2>
+<b>Data Structures and Algorithms Practice(Excel)</b>
+<li><a href="https://github.com/mher12/ExcelSalesReport"> Sales Report with Excel</li>
+<b>SQL</b>
+<li></li>
+<b>Tableau</b>
+<li></li>
 
 <h2>Resources to help you kick start your journey in Data Analytics!</h2>
 <b>
