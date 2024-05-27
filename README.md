@@ -27,7 +27,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
 In this section I will list data analytics projects briefly describing the technology stack used to perform analysis and analytics to generate insights.
 
 ### Employee Salary Report
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
+**Code:** [`Employee Salary Report`](https://github.com/mher12/ExcelSalesReport/tree/main)    
 **Description:** The dataset contained two tables. One table contains Employee department and salary information with 50 records. The second contains the bonus amount in which are associated to each employee with 44 records. The task was to clean up the data set and perform statistical analysis and create a relationship between two tables using X-Lookup.  
 **Skills:** data cleaning, data analysis, descriptive statistics  
 **Technology:** Excel.  
