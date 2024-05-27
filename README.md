@@ -36,7 +36,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Review Employee demographics and assigne appropriate bonus percentage accordingly.  
 
 ### Video Games Sales Dashboard
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
+**Code:** [`Video Game Sales Dashboard`](https://github.com/mher12/VideoGameSalesDashboard)    
 **Description:** The dataset contains 16597 records as of May 2024. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, and measuring statistical factors.
 **Skills:** data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** Excel, PowerQuery, PowerBi  
