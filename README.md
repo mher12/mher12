@@ -23,7 +23,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
   	+ [Video Games Sales Analysis](#video-games-sales-analysis)
  - [Resources](#resources)
   	+ [Video Games Sales Analysis](#video-games-sales-analysis) 	
-- [Let's Connect](#let\'\s-connect)
+- [Contact Me](#contact-me)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to perform analysis and analytics to generate insights.
@@ -64,8 +64,8 @@ Resources to help you kick start your journey in Data Analytics!
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-## Let's Connect:
-:selfie: Contact me at:
+## Contact me:
+:selfie: let's connect:
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
