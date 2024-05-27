@@ -15,7 +15,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   	+ [Employee Report](#employee-report)
-  	+ [Video Games Sales Dashboard](#video-games-sales-dashbaord)
+  	+ [Video Games Sales Dashboard](#video-games-sales-dashboard)
 - [Self Paced Study Projects](#self-paced-study-projects)
 	+ [Learning SQL - Covid Population](#Learning-SQL---Covid-Population)
 	+ [Tableau Vizzes](#tableau-vizzes)
