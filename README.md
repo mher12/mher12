@@ -14,7 +14,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  	+ [Employee Salary Report](#Employee-Salary-Report)
+  	+ [Employee Salary Report](#employee-salary-report)
   	+ [Video Games Sales Analysis](#video-games-sales-analysis)
 - [Self-Study Projects](#study-projects)
 	+ [Data Analysis Course](#data-analyst-specialization)
