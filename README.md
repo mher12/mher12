@@ -11,8 +11,15 @@ I would love to connect to see what I can do to help you, or if you have any fee
 
 
 <h2><b>Table of Contents</b>
-  
-<h4>Portfolio Projects:</h4>
+<li>About</li>About
+<li>Table of Contents</li>
+<li>Portfolio Projects</li>
+<li>Self-Study Projects</li>
+<li>Certificates</li>
+<li>Resources</li>
+<li>Contacts</li>
+
+<h3>Portfolio Projects:</h3>
 <b>Data Structures and Algorithms Practice(Excel)</b>
 <li><a href="https://github.com/mher12/ExcelSalesReport"> Sales Report with Excel</li>
 <b>SQL</b>
@@ -20,7 +27,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
 <b>Tableau</b>
 <li></li>
 
-<h2>Self-study Projects:</h2>
+<h3>Self-study Projects:</h3>
 <b>Data Structures and Algorithms Practice(Excel)</b>
 <li><a href="https://github.com/mher12/ExcelSalesReport"> Sales Report with Excel</li>
 <b>SQL</b>
