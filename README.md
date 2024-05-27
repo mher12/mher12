@@ -29,7 +29,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** The dataset contained two tables. One table contains Employee department and salary information with 50 records. The second contains the bonus amount in which are associated to each employee with 44 records. The task was to clean up the data set and perform statistical analysis and create a relationship between two tables using X-Lookup.   
 **Skills:** data cleaning, data analysis, descriptive statistics  
 **Technology:** Excel.  
-**Results:** Review Employee demographics and assigne appropriate bonus percentage accordingly.  
+**Results:** Review Employee demographics and assigned appropriate bonus percentage accordingly.  
 
 ### Video Games Sales Dashboard
 **Code:** [`Video Game Sales Dashboard`](https://github.com/mher12/VideoGameSalesDashboard)    
