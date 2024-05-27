@@ -13,12 +13,11 @@ I would love to connect to see what I can do to help you, or if you have any fee
 - <b>Data Structures and Algorithms Practice with Excel(AlgoExpert)</b>
   - [Data Structure and Sales Report](https://github.com/mher12)
 - <b>Data Visualization</b>
--SQL
--Tableau
+-<b>SQL</b>
+-<b>Tableau</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Data Structures and Algorithms Practice with Python</b>
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
 
 <h2>:tv: Popular YouTube Videos</h2>
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
