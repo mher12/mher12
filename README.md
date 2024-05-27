@@ -25,6 +25,14 @@ I would love to connect to see what I can do to help you, or if you have any fee
 <b>Tableau</b>
 <li></li>
 
+<h2>Certificates:</h2>
+<b>Linkedin</b>
+<li><a href="https://github.com/mher12/ExcelSalesReport"> Sales Report with Excel</li>
+<b>SQL</b>
+<li></li>
+<b>Tableau</b>
+<li></li>
+
 <h2>Resources to help you kick start your journey in Data Analytics!</h2>
 <b>
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
