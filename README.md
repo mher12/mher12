@@ -10,8 +10,8 @@ I would love to connect to see what I can do to help you, or if you have any fee
 </p>
 
 <h2>Data Analyst Projects:</h2>
-- <b>Data Structures and Algorithms Practice with Excel(AlgoExpert)</b>
-  <li><a href="[www.github.com/mher12](https://github.com/mher12/ExcelSalesReport.git)"> Sales Report with Excel</li>
+- <b>Data Structures and Algorithms Practice(Excel)</b>
+  <li><a href="https://github.com/mher12/ExcelSalesReport"> Sales Report with Excel</li>
 - <b>Data Visualization</b>
 -<b>SQL</b>
 -<b>Tableau</b>
