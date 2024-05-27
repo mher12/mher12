@@ -14,7 +14,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  + [Sales Report](#Sales-Excel_report)
+  + [Sales Report](#Sales-Excel-report)
   + [Video Games Sales Analysis](#video-games-sales-analysis)
 - [Self-Study Projects](#study-projects)
   	
@@ -30,7 +30,14 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Contacts](#contacts)
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section I will list data analytics projects briefly describing the technology stack used to perform analysis and analytics to generate insights.
+
+### Employee Salary Report
+**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
+**Description:** The dataset contained two tables. One table contains Employee department and salary information with 50 records. The second contains the bonus amount in which are associated to each employee with 44 records. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
+**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
+**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
+**Results:** Review of the global and regional video games markets, data-based business recommendations.  
 
 ### Video Games Sales Analysis
 **Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
