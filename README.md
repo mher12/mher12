@@ -17,7 +17,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
   	+ [Employee Report](#employee-report)
   	+ [Video Games Sales Dashboard](#video-games-sales-dashboard)
 - [Self Paced Study Projects](#self-paced-study-projects)
-	+ [Learning SQL - Covid Population](#Learning-SQL---Covid-Population)
+	+ [Learning SQL](#Learning-SQL)
 - [Resources](#resources)	
 - [Connect with me](#connect-with-me)
 
@@ -41,7 +41,8 @@ In this section I will list data analytics projects briefly describing the techn
 ## Self Paced Study Projects
 In this section I will provide links to my github repositories containing assigments I created while passing online courses or while just having fun with data and code.
 
-### Learning SQL - Covid Population
+### Learning SQL
+#### Covid Population Impact by Region
 **Description:** SQL queries for tasks from [AlexTheDataAnalyst](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85fttps://karpov.courses/simulator-ab).  
 This self-paced course explores such topics understanding the basics to intermediate syntax of SQL.  
 **Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/PortfolioProjectsSQL/tree/main)   
