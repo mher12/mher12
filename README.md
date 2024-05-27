@@ -66,7 +66,7 @@ Resources to help you kick start your journey in Data Analytics!
 
 ## Connect with me:
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MainiaHer | LinkedIn" width="22px" src="https://www.linkedin.com/in/mainia-her-399aa72b4/" />][linkedin]
 
 
 [linkedin]: (https://www.linkedin.com/in/mainia-her-399aa72b4/)
