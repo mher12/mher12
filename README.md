@@ -11,7 +11,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
 
 <h2>Data Analyst Projects:</h2>
 - <b>Data Structures and Algorithms Practice with Excel(AlgoExpert)</b>
-  - [Data Structure and Sales Report](https://github.com/mher12)
+  <li><a href="[www.github.com/mher12](https://github.com/mher12/ExcelSalesReport.git)"> Sales Report with Excel</li>
 - <b>Data Visualization</b>
 -<b>SQL</b>
 -<b>Tableau</b>
