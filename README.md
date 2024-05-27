@@ -35,12 +35,12 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Excel.  
 **Results:** Review Employee demographics and assigne appropriate bonus percentage accordingly.  
 
-### Video Games Sales Analysis
+### Video Games Sales Dashboard
 **Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
-**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+**Description:** The dataset contains 16597 records as of May 2024. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, and measuring statistical factors.
+**Skills:** data cleaning, data analysis, descriptive statistics, and data visualization.  
+**Technology:** Excel, PowerQuery, PowerBi  
+**Results:** Review of the global and regional video games markets sales based on regions  
 
 ## Self Paced Study Projects
 In this section I will provide links to my github repositories containing assigments I created while passing online courses or while just having fun with data and code.
