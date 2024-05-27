@@ -9,7 +9,10 @@ This curiosity and thirst for knowledge led me to enroll as a student in the Goo
 I would love to connect to see what I can do to help you, or if you have any feedback, I would love to learn and grow together as I truly believe in being a life long learner!
 </p>
 
-<h2>Portfolio Projects:</h2>
+
+<h2><b>Table of Contents</b>
+  
+<h4>Portfolio Projects:</h4>
 <b>Data Structures and Algorithms Practice(Excel)</b>
 <li><a href="https://github.com/mher12/ExcelSalesReport"> Sales Report with Excel</li>
 <b>SQL</b>
