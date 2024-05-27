@@ -51,11 +51,6 @@ This self-paced course explores such topics understanding the basics to intermed
 **Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/PortfolioProjectsSQL/tree/main)  
 **Status:** Some courses are still in progress
 
-## Certificates
-I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Introduction to Career Skills in Data Analytics](https://drive.google.com/file/d/1rGfXuVLWLkxzrPLE-NgHizMN-tpoZibA/view) (Jun 2023) (karpov.courses)
-- [Algorithms Training 3.0 by Yandex](https://drive.google.com/file/d/1EQ5p0F_acNAXgnKBhgGhxLl-8W6HlCid/view?usp=sharing) (Apr 2023) (Yandex)
-
 ## Resources
 Resources to help you kick start your journey in Data Analytics!  
 - [Free Data Analyst Bootcamp](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
@@ -65,11 +60,7 @@ Resources to help you kick start your journey in Data Analytics!
 - [Google Data Analytics Program](https://www.coursera.org/google-certificates/data-analytics-certificate?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-data-analytics_google_FTCOF_professional-certificates_country-US&campaignid=12504215975&adgroupid=122709142687&device=c&keyword=google%20analytics%20certification%20free&matchtype=b&network=g&devicemodel=&adposition=&creativeid=696354661336&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjw3tCyBhDBARIsAEY0XNmwwHzNr2zj_DzFwnhIPMygfhHjb0m7gYJgqrDAc6m4dOQ8fr2Y4XUaAnh6EALw_wcB)
 
 ## Connect with me:
-
-[<img align="left" alt="MainiaHer" | LinkedIn" width="22px" src="https://www.linkedin.com/in/mainia-her-399aa72b4/" />][linkedin]
-
-
-[linkedin]: (https://www.linkedin.com/in/mainia-her-399aa72b4/)
+-[LinkedIn](https://www.linkedin.com/in/mainia-her-399aa72b4)
 
 
 Here are some ideas to get you started:
