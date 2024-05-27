@@ -41,7 +41,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Review of the global and regional video games markets, data-based business recommendations.  
 
 ## Self Paced Study Projects
-In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or while just having fun with data and code.
+In this section I will provide links to my github repositories containing assigments I created while passing online courses or while just having fun with data and code.
 
 ### advanced ab testing course
 **Description:** Advanced A/B testing course by [karpov.courses](https://karpov.courses/simulator-ab). 
