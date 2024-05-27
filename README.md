@@ -15,9 +15,9 @@ I would love to connect to see what I can do to help you, or if you have any fee
 - <b>Data Visualization</b>
 -<b>SQL</b>
 -<b>Tableau</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/) <b><i></b></i>
 - <b>Data Structures and Algorithms Practice with Python</b>
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [FIM (File Integrity Monitor)](https://github.com/)
 
 <h2>Resources to help you kick start your journey in Data Analytics!</h2>
 <b>
