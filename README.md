@@ -1,7 +1,7 @@
 ## About
 ## Mainia Her - Data Analysis Portfolio
 ### Hi there 👋
-I'm Mainia (my-nya)! I'm a proud graduate of Toccoa Fall College where I received my Bachelor of Science degree in Christian Education. This degree focuses on creating, organization, and reviewing the efficacies of ministries within the church organization. I am currently a senior disclosure analyst with a mid-size mortgage lender for 12 years. With data all around us, I decided to jump into a data analytics in pursuit of how data can make an impact and open doors for us whether it be in a personal or professional setting. 
+I'm Mainia (my-nya)! I'm a proud graduate of Toccoa Fall College where I received my Bachelor of Science degree in Christian Education. This degree focuses on creating, organization, and reviewing the efficacies of ministries within the church organization. I am currently a senior disclosure analyst for a mid-size mortgage lender for 12 years. I am looking for a new challenge and want to dive deeper into data using different tools and techniques.
 </p>
 <p></p>
 This curiosity and thirst for knowledge led me to enroll as a student in the Goodwill Data Analytics programs where I have learned to extract, load, and transform data to derive meaningful insights using various tools and programs. Check out what I have been up to! This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics related topics. Asides from learning to use different tool and techniques, I get to help others with my skills which brings me personal satisfaction! 
