@@ -17,7 +17,7 @@ This repository serves to showcase my skills and as a platform to share my proje
   	+ [Employee Salary Report](#employee-salary-report)
   	+ [Video Games Sales Analysis](#video-games-sales-analysis)
 - [Self Paced Study Projects](#self-paced-study-projects)
-	+ [Covid Population](#data-analyst-specialization)
+	+ [Covid Population](#covid-population)
 	+ [Tableau Vizzes](#tableau-vizzes)
 - [Certificates](#certificates)
   	+ [Video Games Sales Analysis](#video-games-sales-analysis)
@@ -43,50 +43,11 @@ In this section I will list data analytics projects briefly describing the techn
 ## Self Paced Study Projects
 In this section I will provide links to my github repositories containing assigments I created while passing online courses or while just having fun with data and code.
 
-### advanced ab testing course
-**Description:** Advanced A/B testing course by [karpov.courses](https://karpov.courses/simulator-ab). 
-This self-paced course explores such topics as Basics of Statistics, Hypothesis testing, Experimental design, Design testing, Confidence intervals, Improving test sensitivity, Metric selection, Cuped, Stratification, Multiple testing, Traffic splitting, Analysis of ratio metrics (Linearization and Delta Method) and a Complete A/B testing pipeline. All with an extensive coding practice in Python.
-**Repository:** Check the repository having my solutions on Advanced A/B testing course tasks and challenges ---> [go to repo..](https://github.com/nktnlx/ab_testing_advanced_course)  
-**Status:** Completed in June 2023 (please, check the certificates section below).  
-
-### algorithms training by yandex
-**Description:** Algorithms Training 3.0 by Yandex. [The course official page](https://yandex.ru/yaintern/algorithm-training).  
-This 1 month algorithms and data structures coding journey explores such topics as stacks, queues, dynamic programming, graphs, DFS, BFS, etc.  
-**Repository:** Check the repository having my notes and solutions on Algorithms Training 3.0 by Yandex based on the course lectures, tasks and materials ---> [go to repo..](https://github.com/nktnlx/algorithms_training/tree/main/algo_trainings_3)  
-**Status:** Completed in April 2023 (please, check the certificates section below).  
-
-### data structures and algorithms in python
-**Description:** Data Structures & Algorithms in Python on Udacity by Google. [The course official page](https://learn.udacity.com/courses/ud513).  
-This 1 month course introduces common data structures and algorithms in Python. It overviews frequently-asked technical interview questions and teaches how to structure your responses.  
-**Repository:** Check the repository having my notes and useful links on Data Structures & Algorithms in Python based on the course lectures, tasks and materials ---> [go to repo..](https://github.com/nktnlx/algorithms_by_google_udacity)  
-**Status:** Completed in March 2023 (please, check the certificates section below).  
-
-### ab testing course by google
-**Description:** A/B Testing Course by Google. [The course official page](https://www.udacity.com/course/ab-testing--ud257?autoenroll=true).  
-This 1 month course covers how to choose and characterize metrics to evaluate your experiments, how to design an experiment with enough statistical power, how to analyze the results and draw valid conclusions.  
-**Repository:** Check the repository having my notes and useful links on A/B testing based on the course lectures, tasks and materials ---> [go to repo..](https://github.com/nktnlx/ab_testing_by_google_udacity)  
-**Status:** Completed in February 2023 (please, check the certificates section below).  
-
-### sklearn ml course
-**Description:** Machine Learning in Python with scikit-learn by France Université Numérique. [The course official page](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/).  
-This 3 month course is an in-depth introduction to predictive modeling with scikit-learn. Step-by-step and didactic lessons introduce the fundamental methodological and software tools of machine learning, and is as such a stepping stone to more advanced challenges in artificial intelligence, text mining, or data science.  
-**Repository:** Check the repository having jupyter notebooks with the course lectures and tasks' solutions ---> [go to repo..](https://github.com/nktnlx/sklearn_ml_course)  
-**Status:** Completed in May 2022 (please, check the certificates section below).  
-
-### Kaggle 30 Days of ML
-**Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/thirty-days-of-ml). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.  
-**Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/nktnlx/kaggle_30_Days_of_ML)  
-**Status:** Completed in August 2021 (please, check the certificates section below).    
-
-### Data Analyst Specialization
-**Description:** This is a 5 month specialization by [karpov.courses](https://karpov.courses/analytics). The specialization includes Python, API, Git, Airflow, SQL, Statistics, A/B testing, Visualization, Product development and Product Analytics modules.  
-**Repository:** Check the repository having 37 data analysis mini-projects ---> [go to repo..](https://github.com/nktnlx/data_analysis_course)  
-**Status:** Completed in July 2021 (please, check the certificates section below).  
-
-### Data Analysis Course Tinkoff-MSU
-**Description:** This is a 3 month course by [Tinkoff Education](https://fintech.tinkoff.ru/study/academy/analysis/). The course was created for Moscow State University Faculty of Mechanics and Mathematics students and includes following topics: Introduction to Data Analysis, SQL, Data Visualization in Python, A/B tests, Data Interpretation, Models, Logistic regression, Mobile Analytics, Random Forest, etc..  
-**Repository:** Check the repository having my code and solutions for home-tasks and projects of the course ---> [go to repo..](https://github.com/nktnlx/data_analysis_tinkoff_msu)  
-**Status:** Completed in May 2021 (please, check the certificates section below).   
+### Covid Population
+**Description:** SQL queries for tasks from [AlexTheDataAnalyst](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85fttps://karpov.courses/simulator-ab). 
+This self-paced course explores such topics understanding the basics to intermediate syntax of SQL. 
+**Repository:** Check the repository ---> [go to repo..](https://github.com/nktnlx/ab_testing_advanced_course)  
+**Status:** Still in progress
 
 ### Learning SQL
 **Description:** SQL queries for tasks from [codecademy](https://www.codecademy.com/learn/learn-sql), [sql-ex.ru](https://www.sql-ex.ru/?Lang=1), [stepik](https://stepik.org/course/63054/syllabus), [sql module on Yandex Praktikum](https://praktikum.yandex.ru/data-analyst/), etc.      
