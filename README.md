@@ -29,9 +29,9 @@ In this section I will list data analytics projects briefly describing the techn
 ### Employee Salary Report
 **Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
 **Description:** The dataset contained two tables. One table contains Employee department and salary information with 50 records. The second contains the bonus amount in which are associated to each employee with 44 records. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+**Skills:** data cleaning, data analysis, descriptive statistics  
+**Technology:** Excel.  
+**Results:** Review Employee demographics and assigne appropriate bonus percentage accordingly.  
 
 ### Video Games Sales Analysis
 **Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
@@ -43,40 +43,11 @@ In this section I will list data analytics projects briefly describing the techn
 ## Self Paced Study Projects
 In this section I will provide links to my github repositories containing assigments I created while passing online courses or while just having fun with data and code.
 
-### Covid Population
-**Description:** SQL queries for tasks from [AlexTheDataAnalyst](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85fttps://karpov.courses/simulator-ab). 
-This self-paced course explores such topics understanding the basics to intermediate syntax of SQL. 
+### Learning SQL - Covid Population
+**Description:** SQL queries for tasks from [AlexTheDataAnalyst](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85fttps://karpov.courses/simulator-ab).  
+This self-paced course explores such topics understanding the basics to intermediate syntax of SQL.
 **Repository:** Check the repository ---> [go to repo..](https://github.com/nktnlx/ab_testing_advanced_course)  
-**Status:** Still in progress
-
-### Learning SQL
-**Description:** SQL queries for tasks from [codecademy](https://www.codecademy.com/learn/learn-sql), [sql-ex.ru](https://www.sql-ex.ru/?Lang=1), [stepik](https://stepik.org/course/63054/syllabus), [sql module on Yandex Praktikum](https://praktikum.yandex.ru/data-analyst/), etc.      
-**Repository:** Check the repository having 400+ SQL queries ---> [go to repo..](https://github.com/nktnlx/learning_SQL)  
-**Status:** Some of the courses are still in progress.  
-
-### Python Developer Track
-**Description:** 25 projects, 154 hours, 300 topics python developer track from [JetBrains Academy](https://hyperskill.org/tracks/2)  
-**Repository:** Check the repository having 11 completed projects including: Hangman, Tic-Tac-Toe, Rock-Paper-Scissors games; Matrix calculator, own-coded Regex engine, To-Do list, etc. ---> [go to repo..](https://github.com/nktnlx/jetbrains_python_developer)  
-**Status:** Completed 11 projects, studied 116 topics from the track to practice my python skills. Will revert back to the track later.  
-
-### Computer Science Career Path
-**Description:** 20 weeks Computer Science Career Path from [Codecademy](https://www.codecademy.com/learn/paths/computer-science). The career path includes following topics: command line commands, git, python 3, OOP, linear data structures, complex data structures, asymptotic notation, recursion, sorting algorithms, search algorithms, graph search algorithms.  
-**Repository:** Although the career path has been already completed the repository is still under development, having only 9 listed projects including: words statistics calculator, English nouns pluralizer, English verbs conjugation, censor engine, etc. ---> [go to repo..](https://github.com/nktnlx/cs_path_codecademy)  
-**Status:** Completed in July 2020 (please, check the certificates section below).  
-
-### Google Python Class
-**Description:** This is a free class for people with a little bit of programming experience who want to learn Python by [Google](https://developers.google.com/edu/python). Topics covered: strings, lists, sorting, dicts, files, regular expressions, utilities, urllib.  
-**Repository:** Containing 10 cool projects including: mimicking random text generator, baby-names popularity counter (based on data from The Social Security administration US), etc. ---> [go to repo..](https://github.com/nktnlx/google_python_class)  
-**Status:** Completed in November 2020.  
-
-### Side Projects
-**Description:** Side projects and various code snippets I'm having fun with.  
-**Repository:** pull-ups ladder calculator, motivational bad habits tracker, my solutions to coding problems for Tinkoff Fintech Junior / Tinkoff Internship admission tests, applications to internships, [Google Sheets Course by Yandex Praktikum](https://practicum.yandex.ru/excel-for-work/), etc. ---> [go to repo..](https://github.com/nktnlx/side_projects)  
-**Status:** ∞  
-
-### Tableau Vizzes
-**Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/profile/nktn.lx#!/)  
-**Status:** ∞  
+**Status:** Some courses are still in progress
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
