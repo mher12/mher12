@@ -46,7 +46,7 @@ In this section I will provide links to my github repositories containing assigm
 ### Learning SQL - Covid Population
 **Description:** SQL queries for tasks from [AlexTheDataAnalyst](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85fttps://karpov.courses/simulator-ab).  
 This self-paced course explores such topics understanding the basics to intermediate syntax of SQL.
-**Repository:** Check the repository ---> [go to repo..](https://github.com/nktnlx/ab_testing_advanced_course)  
+**Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/PortfolioProjectsSQL/tree/main)  
 **Status:** Some courses are still in progress
 
 ## Certificates
