@@ -17,7 +17,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
   	+ [Employee Report](#employee-report)
   	+ [Video Games Sales Analysis](#video-games-sales-analysis)
 - [Self Paced Study Projects](#self-paced-study-projects)
-	+ [Covid Population](#covid-population)
+	+ [Learning SQL - Covid Population](#Learning-SQL---Covid-Population)
 	+ [Tableau Vizzes](#tableau-vizzes)
 - [Certificates](#certificates)
   	+ [Video Games Sales Analysis](#video-games-sales-analysis)
