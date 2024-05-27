@@ -60,7 +60,7 @@ Resources to help you kick start your journey in Data Analytics!
 - [Google Data Analytics Program](https://www.coursera.org/google-certificates/data-analytics-certificate?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-data-analytics_google_FTCOF_professional-certificates_country-US&campaignid=12504215975&adgroupid=122709142687&device=c&keyword=google%20analytics%20certification%20free&matchtype=b&network=g&devicemodel=&adposition=&creativeid=696354661336&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjw3tCyBhDBARIsAEY0XNmwwHzNr2zj_DzFwnhIPMygfhHjb0m7gYJgqrDAc6m4dOQ8fr2Y4XUaAnh6EALw_wcB)
 
 ## Connect with me:
-[<img align="left" alt="Mainia Her | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/mainia-her-399aa72b4)
+-[<img align="left" alt="Mainia Her | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/mainia-her-399aa72b4)
 
 
 
