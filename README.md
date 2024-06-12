@@ -11,7 +11,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
 </p>
 
 
-## Table of contents
+## Table of contents (#table-of-contents)
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   	+ [Employee Report](#employee-report)
@@ -33,6 +33,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** data cleaning, data analysis, descriptive statistics  
 **Technology:** Excel.  
 **Results:** Review Employee demographics and assigned appropriate bonus percentage accordingly.  
+**code:** back to table of contents[#table of contents]
 
 ### Video Games Sales Dashboard
 **Code:** [`Video Game Sales Dashboard`](https://github.com/mher12/VideoGameSalesDashboard)    
