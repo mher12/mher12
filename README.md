@@ -41,14 +41,16 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** The dataset contains 16597 records as of May 2024. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, and measuring statistical factors.  
 **Skills:** data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** Excel, PowerQuery, PowerBi  
-**Results:** Review and created dashboards showing global and regional video games markets sales.
+**Results:** Review and created dashboards showing global and regional video games markets sales.  
+[Back to table of contents](#table-of-contents)
 
 ### HR Dashboard 
 **Code:** [`HR Dashboard`](https://github.com/mher12/HR-Dashboard)    
 **Description:** The dataset contains 16597 records as of May 2024. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, and measuring statistical factors.  
 **Skills:** data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** Excel, PowerQuery, PowerBi  
-**Results:** Review and created dashboards showing global and regional video games markets sales.
+**Results:** Review and created dashboards showing global and regional video games markets sales.  
+[Back to table of contents](#table-of-contents)
 
 ### HR Dashboard 2
 
@@ -63,7 +65,8 @@ The SQL query was then used to upload the table into PowerBI via the SQL Direct 
 The project includes the following steps: data loading, data cleaning and preprocessing, filling/ reviewing for missing values, EDA (exploratory data analysis), analyzing demographics, and creating statistical measures such as Average and Sum of Annual Salary of Employees.   
 **Skills:** Data upload (CVS to SQL, establish relation via inner join, uploaded data to PowerBI using SQL Direct query option), data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** SQL, PowerQuery, PowerBi  
-**Results:** Reviewed and created dashboard on employee demographics.
+**Results:** Reviewed and created dashboard on employee demographics.  
+[Back to table of contents](#table-of-contents)
 
 ### HR Dashboard 3
 
@@ -77,18 +80,21 @@ Data was then uploaded to PowerBI via SQL Import Database option. Once the data 
 The project includes the following steps: data loading, data cleaning and preprocessing, filling/ reviewing for missing values, EDA (exploratory data analysis), analyzing demographics, and creating statistical measures such as Average and Sum of Annual Salary of Employees.   
 **Skills:** Data upload (Uploaded data to PowerBI using SQL Import Database option), data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** SQL, PowerQuery, PowerBi  
-**Results:** Reviewed and created dashboard on employee demographics.
+**Results:** Reviewed and created dashboard on employee demographics.  
+[Back to table of contents](#table-of-contents)
 
 
 ## Self Paced Study Projects
-In this section I will provide links to my github repositories containing assigments I created while passing online courses or while just having fun with data and code.
+In this section I will provide links to my github repositories containing assigments I created while passing online courses or while just having fun with data and code.  
+[Back to table of contents](#table-of-contents)
 
 ### Learning SQL
 **Covid Population Impact by Region**  
 **Description:** SQL queries for tasks from [AlexTheDataAnalyst](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85fttps://karpov.courses/simulator-ab).  
 This self-paced course explores topics covering the basics to intermediate syntax of SQL and how to generate insight using SQL syntax.   
 **Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/PortfolioProjectsSQL/tree/main)   
-**Status:** Some courses are still in progress
+**Status:** Some courses are still in progress  
+[Back to table of contents](#table-of-contents)
 
 ## Resources
 Resources to help you kick start your journey in Data Analytics!  
@@ -97,6 +103,7 @@ Resources to help you kick start your journey in Data Analytics!
 - [O'reilly Resources for Public Libraries](https://www.cmlibrary.org/research-and-learn/oreilly-public-libraries)
 - [LinkedIn Learning through Public Libraries](https://www.linkedin.com/learning-login/go?original_referer=https%3A%2F%2Fwww.google.com%2F)
 - [Google Data Analytics Program](https://www.coursera.org/google-certificates/data-analytics-certificate?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-data-analytics_google_FTCOF_professional-certificates_country-US&campaignid=12504215975&adgroupid=122709142687&device=c&keyword=google%20analytics%20certification%20free&matchtype=b&network=g&devicemodel=&adposition=&creativeid=696354661336&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjw3tCyBhDBARIsAEY0XNmwwHzNr2zj_DzFwnhIPMygfhHjb0m7gYJgqrDAc6m4dOQ8fr2Y4XUaAnh6EALw_wcB)
+[Back to table of contents](#table-of-contents)
 
 ## Connect with me
 
@@ -110,4 +117,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...my other hobbies! Photography and coding!
 - 📫 How to reach me: ...linkedin/google site
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...I love to plan outreach and fellowship gatherings for my church group and work with children
+- ⚡ Fun fact: ...I love to plan outreach and fellowship gatherings for my church group and work with children  
+
+[Back to table of contents](#table-of-contents)
