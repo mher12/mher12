@@ -34,7 +34,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** data cleaning, data analysis, descriptive statistics  
 **Technology:** Excel.  
 **Results:** Review Employee demographics and assigned appropriate bonus percentage accordingly.  
-['Back to table of contents'](#table-of-contents)
+[Back to table of contents](#table-of-contents)
 
 ### Video Games Sales Dashboard
 **Code:** [`Video Game Sales Dashboard`](https://github.com/mher12/VideoGameSalesDashboard)    
