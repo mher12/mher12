@@ -47,7 +47,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Excel, PowerQuery, PowerBi  
 **Results:** Review and created dashboards showing global and regional video games markets sales.
 
-### HR Dashboard - 2
+### HR Dashboard 2
 
 **Code:** [`HR Dashboard---2`](https://github.com/mher12/HR-Dashboard)    
 **Description:** The dataset was a combination of two CSV files. 
