@@ -16,7 +16,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
 - [Portfolio Projects](#portfolio-projects)
   	+ [Employee Report](#employee-report)
   	+ [Video Games Sales Dashboard](#video-games-sales-dashboard)
-  	+ [HR Dashboard](#hr-power-bi-dashboard)
+  	+ [HR Dashboard](#hr-dashboard)
 - [Self Paced Study Projects](#self-paced-study-projects)
 	+ [Learning SQL](#Learning-SQL)
 - [Resources](#resources)	
@@ -40,7 +40,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Review and created dashboards showing global and regional video games markets sales.
 
 ### HR Dashboard 
-**Code:** [`hr power bi dashboard`](https://github.com/mher12/HR-Dashboard)    
+**Code:** [`HR Dashboard`](https://github.com/mher12/HR-Dashboard)    
 **Description:** The dataset contains 16597 records as of May 2024. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, and measuring statistical factors.  
 **Skills:** data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** Excel, PowerQuery, PowerBi  
@@ -65,9 +65,6 @@ Resources to help you kick start your journey in Data Analytics!
 - [Google Data Analytics Program](https://www.coursera.org/google-certificates/data-analytics-certificate?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-data-analytics_google_FTCOF_professional-certificates_country-US&campaignid=12504215975&adgroupid=122709142687&device=c&keyword=google%20analytics%20certification%20free&matchtype=b&network=g&devicemodel=&adposition=&creativeid=696354661336&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjw3tCyBhDBARIsAEY0XNmwwHzNr2zj_DzFwnhIPMygfhHjb0m7gYJgqrDAc6m4dOQ8fr2Y4XUaAnh6EALw_wcB)
 
 ## Connect with me
-[<img align="left" alt="Mainia Her | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Linkedin](https://www.linkedin.com/in/mainia-her-399aa72b4)
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 
 Here are some ideas to get you started:
