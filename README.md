@@ -103,6 +103,7 @@ Resources to help you kick start your journey in Data Analytics!
 - [O'reilly Resources for Public Libraries](https://www.cmlibrary.org/research-and-learn/oreilly-public-libraries)
 - [LinkedIn Learning through Public Libraries](https://www.linkedin.com/learning-login/go?original_referer=https%3A%2F%2Fwww.google.com%2F)
 - [Google Data Analytics Program](https://www.coursera.org/google-certificates/data-analytics-certificate?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-data-analytics_google_FTCOF_professional-certificates_country-US&campaignid=12504215975&adgroupid=122709142687&device=c&keyword=google%20analytics%20certification%20free&matchtype=b&network=g&devicemodel=&adposition=&creativeid=696354661336&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjw3tCyBhDBARIsAEY0XNmwwHzNr2zj_DzFwnhIPMygfhHjb0m7gYJgqrDAc6m4dOQ8fr2Y4XUaAnh6EALw_wcB)
+
 [Back to table of contents](#table-of-contents)
 
 ## Connect with me
