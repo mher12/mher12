@@ -17,7 +17,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
   	+ [Employee Report](#employee-report)
   	+ [Video Games Sales Dashboard](#video-games-sales-dashboard)
   	+ [HR Dashboard](#hr-dashboard)
-  	+ [HR Dashboard 2](#hr-dashboard--2)
+  	+ [HR Dashboard 2](#hr-dashboard-2)
 - [Self Paced Study Projects](#self-paced-study-projects)
 	+ [Learning SQL](#Learning-SQL)
 - [Resources](#resources)	
