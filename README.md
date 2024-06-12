@@ -16,6 +16,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
 - [Portfolio Projects](#portfolio-projects)
   	+ [Employee Report](#employee-report)
   	+ [Video Games Sales Dashboard](#video-games-sales-dashboard)
+  	+ [HR Dashboard](#hr-power-bi-dashboard)
 - [Self Paced Study Projects](#self-paced-study-projects)
 	+ [Learning SQL](#Learning-SQL)
 - [Resources](#resources)	
@@ -33,6 +34,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Video Games Sales Dashboard
 **Code:** [`Video Game Sales Dashboard`](https://github.com/mher12/VideoGameSalesDashboard)    
+**Description:** The dataset contains 16597 records as of May 2024. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, and measuring statistical factors.  
+**Skills:** data cleaning, data analysis, descriptive statistics, and data visualization.  
+**Technology:** Excel, PowerQuery, PowerBi  
+**Results:** Review and created dashboards showing global and regional video games markets sales.
+
+### HR Dashboard
+**Code:** [`hr power bidashboard`](https://github.com/mher12/VideoGameSalesDashboard)    
 **Description:** The dataset contains 16597 records as of May 2024. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, and measuring statistical factors.  
 **Skills:** data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** Excel, PowerQuery, PowerBi  
