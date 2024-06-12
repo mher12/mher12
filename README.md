@@ -17,6 +17,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
   	+ [Employee Report](#employee-report)
   	+ [Video Games Sales Dashboard](#video-games-sales-dashboard)
   	+ [HR Dashboard](#hr-dashboard)
+  	+ [HR Dashboard 2](#hr-dashboard--2)
 - [Self Paced Study Projects](#self-paced-study-projects)
 	+ [Learning SQL](#Learning-SQL)
 - [Resources](#resources)	
@@ -45,6 +46,18 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** Excel, PowerQuery, PowerBi  
 **Results:** Review and created dashboards showing global and regional video games markets sales.
+
+### HR Dashboard - 2
+
+**Code:** [`HR Dashboard---2`](https://github.com/mher12/HR-Dashboard)    
+**Description:** The dataset was a combination of two CSV files. 
+First CSV file, EmployeeSampleDataCSV.CSV consisted of Employee information such as their full name, ethnicity, hire date, department they work under, salary and if they were eligible for bonus.  
+The second CSV file, DepartmentSampleDataCSV.CSV consisted of the department information such as code, name, address.   
+The project includes the following steps: data loading, data cleaning and preprocessing, filling/ reviewing for missing values, EDA (exploratory data analysis), analyzing demographics, and creating statistical measures such as Average and Sum of Annual Salary of Employees.   
+**Skills:** Data upload (CVS to Powerbi, establish relation between the two tables via Model Windows), data cleaning, data analysis, descriptive statistics, and data visualization.  
+**Technology:** PowerQuery, PowerBi  
+**Results:** Reviewed and created dashboard on employee demographics.
+
 
 ## Self Paced Study Projects
 In this section I will provide links to my github repositories containing assigments I created while passing online courses or while just having fun with data and code.
