@@ -67,7 +67,8 @@ Resources to help you kick start your journey in Data Analytics!
 ## Connect with me
 [<img align="left" alt="Mainia Her | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Linkedin](https://www.linkedin.com/in/mainia-her-399aa72b4)
 
-<img a href="https://github.com/mher12/PBI-Project2/blob/main/abstract-blur-background-sunset_1048-2746.jpg">
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+
 
 Here are some ideas to get you started:
 
