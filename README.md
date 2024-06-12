@@ -53,9 +53,13 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** The dataset was a combination of two CSV files. 
 First CSV file, EmployeeSampleDataCSV.CSV consisted of Employee information such as their full name, ethnicity, hire date, department they work under, salary and if they were eligible for bonus.  
 The second CSV file, DepartmentSampleDataCSV.CSV consisted of the department information such as code, name, address.   
+The main focus was method of data import.  
+The two CSV files were uploaded as flat files to SQL Database. Cleaned and transformed. Once imported, the tables were created within a designated database and table altered to include foreign key to establish relationship between the two tables.  
+A SQL query was then created to join the two tables. A new measure was also added to the joined table. 
+The SQL queyr was then used to upload the table into PowerBI via the SQL Direct Query option.
 The project includes the following steps: data loading, data cleaning and preprocessing, filling/ reviewing for missing values, EDA (exploratory data analysis), analyzing demographics, and creating statistical measures such as Average and Sum of Annual Salary of Employees.   
-**Skills:** Data upload (CVS to Powerbi, establish relation between the two tables via Model Windows), data cleaning, data analysis, descriptive statistics, and data visualization.  
-**Technology:** PowerQuery, PowerBi  
+**Skills:** Data upload (CVS to SQL, establish relation via inner join, uploaded data to PowerBI using SQL Direct query option), data cleaning, data analysis, descriptive statistics, and data visualization.  
+**Technology:** SQL, PowerQuery, PowerBi  
 **Results:** Reviewed and created dashboard on employee demographics.
 
 
