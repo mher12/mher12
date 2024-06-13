@@ -17,9 +17,9 @@ I would love to connect to see what I can do to help you, or if you have any fee
 - [Portfolio Projects](#portfolio-projects)
   	+ [Employee Report](#employee-report)
   	+ [Video Games Sales Dashboard](#video-games-sales-dashboard)
-  	+ [HR Dashboard](#hr-dashboard)
-  	+ [HR Dashboard 2](#hr-dashboard-2)
-  	+ [HR Dashboard 3](#hr-dashboard-3)
+  	+ [HR Dashboard P2](#hr-dashboard-P2)
+  	+ [HR Dashboard P3](#hr-dashboard-P3)
+  	+ [HR Dashboard P4](#hr-dashboard-P4)
 - [Self Paced Study Projects](#self-paced-study-projects)
 	+ [Learning SQL](#Learning-SQL)
 - [Resources](#resources)	
@@ -44,21 +44,25 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Review and created dashboards showing global and regional video games markets sales.  
 [Back to table of contents](#table-of-contents)
 
-### HR Dashboard 
-**Code:** [`HR Dashboard`](https://github.com/mher12/HR-Dashboard)    
-**Description:** The dataset contains 16597 records as of May 2024. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, and measuring statistical factors.  
-**Skills:** data cleaning, data analysis, descriptive statistics, and data visualization.  
-**Technology:** Excel, PowerQuery, PowerBi  
-**Results:** Review and created dashboards showing global and regional video games markets sales.  
+### HR Dashboard P2
+**Code:** [`HR Dashboard P2`](https://github.com/mher12/HR-Dashboard)    
+**Description:** The dataset was a combination of two CSV files. 
+First CSV file, EmployeeSampleDataCSV.CSV consisted of Employee information such as their full name, ethnicity, hire date, department they work under, salary and if they were eligible for bonus. It has 1000 records with various data type such as text/varchar, currency, numbers, and date.     
+The second CSV file, DepartmentSampleDataCSV.CSV consisted of the department information such as code, name, address. This CSV file contained 7 records with various data types such as text/varchar and numbers.     
+The main focus for this project was method of data import. The two CSV files were uploaded directly into PowerBI, cleaned and transformed. Relationship between the two tables were then established using PowerBi Model window.  
+The project includes the following steps: data loading, data cleaning and preprocessing, filling/ reviewing for missing values, EDA (exploratory data analysis), analyzing demographics, and creating statistical measures such as Average and Sum of Annual Salary of Employees.   
+**Skills:** Data upload (CVS to PowerBI, establish relation PowerBI Manage Relationship through Model window, data cleaning, data analysis, descriptive statistics, and data visualization.  
+**Technology:** PowerQuery, PowerBi  
+**Results:** Reviewed and created dashboard on employee demographics.  
 [Back to table of contents](#table-of-contents)
 
-### HR Dashboard 2
+### HR Dashboard P3
 
-**Code:** [`HR Dashboard---2`](https://github.com/mher12/HR-Dashboard)    
+**Code:** [`HR Dashboard P3`](https://github.com/mher12/HR-Dashboard)    
 **Description:** The dataset was a combination of two CSV files. 
-First CSV file, EmployeeSampleDataCSV.CSV consisted of Employee information such as their full name, ethnicity, hire date, department they work under, salary and if they were eligible for bonus.  
-The second CSV file, DepartmentSampleDataCSV.CSV consisted of the department information such as code, name, address.   
-The main focus was method of data import.  
+First CSV file, EmployeeSampleDataCSV.CSV consisted of Employee information such as their full name, ethnicity, hire date, department they work under, salary and if they were eligible for bonus. It has 1000 records with various data type such as text/varchar, currency, numbers, and date.     
+The second CSV file, DepartmentSampleDataCSV.CSV consisted of the department information such as code, name, address. This CSV file contained 7 records with various data types such as text/varchar and numbers.     
+The main focus for this project was method of data import.
 The two CSV files were uploaded as flat files to SQL Database. Cleaned and transformed. Once imported, the tables were created within a designated database and table altered to include foreign key to establish relationship between the two tables.  
 A SQL query was then created to join the two tables. A new measure was also added to the joined table. 
 The SQL query was then used to upload the table into PowerBI via the SQL Direct Query option.
@@ -68,15 +72,15 @@ The project includes the following steps: data loading, data cleaning and prepro
 **Results:** Reviewed and created dashboard on employee demographics.  
 [Back to table of contents](#table-of-contents)
 
-### HR Dashboard 3
+### HR Dashboard P4
 
-**Code:** [`HR Dashboard---2`](https://github.com/mher12/HR-Dashboard)    
+**Code:** [`HR Dashboard P4`](https://github.com/mher12/HR-Dashboard)    
 **Description:** The dataset was a combination of two CSV files. 
-First CSV file, EmployeeSampleDataCSV.CSV consisted of Employee information such as their full name, ethnicity, hire date, department they work under, salary and if they were eligible for bonus.  
-The second CSV file, DepartmentSampleDataCSV.CSV consisted of the department information such as code, name, address.   
-The main focus was method of data import.  
+First CSV file, EmployeeSampleDataCSV.CSV consisted of Employee information such as their full name, ethnicity, hire date, department they work under, salary and if they were eligible for bonus. It has 1000 records with various data type such as text/varchar, currency, numbers, and date.     
+The second CSV file, DepartmentSampleDataCSV.CSV consisted of the department information such as code, name, address. This CSV file contained 7 records with various data types such as text/varchar and numbers.     
+The main focus for this project was method of data import.
 The two CSV files were uploaded as flat files to SQL Database. Cleaned and transformed.
-Data was then uploaded to PowerBI via SQL Import Database option. Once the data were uploaded into PowerBI, added a new measure to showcase revised salary in which was made of the Annual Salary and Bonus combined. 
+Data was then uploaded to PowerBI via SQL Import Database option. Once the data were uploaded into PowerBI, a new measure was added to showcase revised salary in which was made up of the Annual Salary and Bonus combined. 
 The project includes the following steps: data loading, data cleaning and preprocessing, filling/ reviewing for missing values, EDA (exploratory data analysis), analyzing demographics, and creating statistical measures such as Average and Sum of Annual Salary of Employees.   
 **Skills:** Data upload (Uploaded data to PowerBI using SQL Import Database option), data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** SQL, PowerQuery, PowerBi  
