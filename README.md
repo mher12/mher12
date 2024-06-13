@@ -37,6 +37,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Quick View:**  
 
 <img src="https://github.com/mher12/ExcelEmployeeReport/blob/main/excel-report.PNG" alt="dark themed dashboard with employee demographics" width="150" height="100">  
+
 [Back to table of contents](#table-of-contents)
 
 ### Video Games Sales Dashboard
