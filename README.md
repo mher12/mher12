@@ -45,7 +45,7 @@ In this section I will list data analytics projects briefly describing the techn
 [Back to table of contents](#table-of-contents)
 
 ### HR Dashboard P2
-**Code:** [`HR Dashboard P2`](https://github.com/mher12/HR-Dashboard)    
+**Code:** [`HR Dashboard P2`](https://github.com/mher12/HR-Dashboard-P2.git)    
 **Description:** The dataset was a combination of two CSV files. 
 First CSV file, EmployeeSampleDataCSV.CSV consisted of Employee information such as their full name, ethnicity, hire date, department they work under, salary and if they were eligible for bonus. It has 1000 records with various data type such as text/varchar, currency, numbers, and date.     
 The second CSV file, DepartmentSampleDataCSV.CSV consisted of the department information such as code, name, address. This CSV file contained 7 records with various data types such as text/varchar and numbers.     
@@ -54,6 +54,8 @@ The project includes the following steps: data loading, data cleaning and prepro
 **Skills:** Data upload (CVS to PowerBI, establish relation PowerBI Manage Relationship through Model window, data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** PowerQuery, PowerBi  
 **Results:** Reviewed and created dashboard on employee demographics.  
+**Quick View:**
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 [Back to table of contents](#table-of-contents)
 
 ### HR Dashboard P3
