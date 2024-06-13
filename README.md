@@ -54,7 +54,8 @@ The project includes the following steps: data loading, data cleaning and prepro
 **Skills:** Data upload (CVS to PowerBI, establish relation PowerBI Manage Relationship through Model window, data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** PowerQuery, PowerBi  
 **Results:** Reviewed and created dashboard on employee demographics.  
-**Quick View:**
+**Quick View:**  
+
 <img src="https://github.com/mher12/HR-Dashboard-P2/blob/main/hr-db-p2.PNG" alt="dark themed dashboard with employee demographics" width="150" height="100">  
 [Back to table of contents](#table-of-contents)
 
