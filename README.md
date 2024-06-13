@@ -61,7 +61,7 @@ The project includes the following steps: data loading, data cleaning and prepro
 
 ### HR Dashboard P3
 
-**Code:** [`HR Dashboard P3`](https://github.com/mher12/HR-Dashboard)    
+**Code:** [`HR Dashboard P3`](https://github.com/mher12/HR-Dashboard-P3.git)    
 **Description:** The dataset was a combination of two CSV files. 
 First CSV file, EmployeeSampleDataCSV.CSV consisted of Employee information such as their full name, ethnicity, hire date, department they work under, salary and if they were eligible for bonus. It has 1000 records with various data type such as text/varchar, currency, numbers, and date.     
 The second CSV file, DepartmentSampleDataCSV.CSV consisted of the department information such as code, name, address. This CSV file contained 7 records with various data types such as text/varchar and numbers.     
@@ -73,6 +73,10 @@ The project includes the following steps: data loading, data cleaning and prepro
 **Skills:** Data upload (CVS to SQL, establish relation via inner join, uploaded data to PowerBI using SQL Direct query option), data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** SQL, PowerQuery, PowerBi  
 **Results:** Reviewed and created dashboard on employee demographics.  
+**Quick View:**  
+
+<img src="https://github.com/mher12/HR-Dashboard-P3/blob/main/Hr-DB-P3.PNG" alt="light google themed dashboard with employee demographics" width="150" height="100">  
+
 [Back to table of contents](#table-of-contents)
 
 ### HR Dashboard P4
