@@ -46,7 +46,12 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** Excel, PowerQuery, PowerBi  
 **Results:** Review and created dashboards showing global and regional video games markets sales.  
+**Quick View:**  
+
+<img src="https://github.com/mher12/VideoGameSalesDashboard/blob/main/video-game-dashboard.PNG" alt="dark themed dashboard with employee demographics" width="150" height="100">  
+
 [Back to table of contents](#table-of-contents)
+
 
 ### HR Dashboard P2
 **Code:** [`HR Dashboard P2`](https://github.com/mher12/HR-Dashboard-P2.git)    
