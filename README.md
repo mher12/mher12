@@ -132,7 +132,7 @@ Resources to help you kick start your journey in Data Analytics!
 
 ## Connect with me
 
-[<img align="left" alt="mainia her | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/mainia-her-399aa72b4/]
+<a href="https://www.linkedin.com/in/mainia-her-399aa72b4/"> <img align="left" alt="mainia her | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width=”100″ height=”132″></a>
 
 Here are some ideas to get you started:
 
