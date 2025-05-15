@@ -20,7 +20,8 @@ I would love to connect to see what I can do to help you, or if you have any fee
   	+ [HR Dashboard P2](#hr-dashboard-P2)
   	+ [HR Dashboard P3](#hr-dashboard-P3)
   	+ [HR Dashboard P4](#hr-dashboard-P4)
-  	+ [Sales Dashboard P4](#sales-dashboard-P5)
+  	+ [Sales Dashboard P5](#sales-dashboard-P5)
+  	+ [Bike Sales Dashboard P6]
 - [Self Paced Study Projects](#self-paced-study-projects)
 	+ [Learning SQL](#Learning-SQL)
 - [Resources](#resources)	
