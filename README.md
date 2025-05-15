@@ -20,7 +20,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
   	+ [HR Dashboard P2](#hr-dashboard-P2)
   	+ [HR Dashboard P3](#hr-dashboard-P3)
   	+ [HR Dashboard P4](#hr-dashboard-P4)
-  	+ [Sales Dashboard P5](#sales-dashboard-P5)
+  	+ [Mortgage Loan Sales-Dashboard-P5](#mortg-sales-dashboard-P5)
   	+ [Bike Sales Dashboard P6](#bike-sales-dashboard-P6)
 - [Self Paced Study Projects](#self-paced-study-projects)
 	+ [Learning SQL](#Learning-SQL)
@@ -109,9 +109,9 @@ The project includes the following steps: data loading, data cleaning and prepro
 
 [Back to table of contents](#table-of-contents)
 
-### Sales-dashboard-P5
+### Mortgage Loan Sales-Dashboard-P5
 
-**Code:** [`Sales_dashboard_P5`](https://github.com/mher12/HR-Dashboard-P4.git)    
+**Code:** [`mortg-sales-dashboard-P5`](https://github.com/mher12/HR-Dashboard-P4.git)    
 **Description:** The dataset was a combination of two CSV files. 
 First CSV file, EmployeeSampleDataCSV.CSV consisted of Employee information such as their full name, ethnicity, hire date, department they work under, salary and if they were eligible for bonus. It has 1000 records with various data type such as text/varchar, currency, numbers, and date.     
 The second CSV file, DepartmentSampleDataCSV.CSV consisted of the department information such as code, name, address. This CSV file contained 7 records with various data types such as text/varchar and numbers.     
