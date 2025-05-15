@@ -131,19 +131,16 @@ The project includes the following steps: data loading, data cleaning and prepro
 ### Bike Sales Dashboard P6
 
 **Code:** [`Bike Sales Dashboard`](https://github.com/mher12/HR-Dashboard-P4.git)    
-**Description:** The dataset was a combination of two CSV files. 
-First CSV file, EmployeeSampleDataCSV.CSV consisted of Employee information such as their full name, ethnicity, hire date, department they work under, salary and if they were eligible for bonus. It has 1000 records with various data type such as text/varchar, currency, numbers, and date.     
-The second CSV file, DepartmentSampleDataCSV.CSV consisted of the department information such as code, name, address. This CSV file contained 7 records with various data types such as text/varchar and numbers.     
-The main focus for this project was method of data import.
-The two CSV files were uploaded as flat files to SQL Database. Cleaned and transformed.
-Data was then uploaded to PowerBI via SQL Import Database option. Once the data were uploaded into PowerBI, a new measure was added to showcase revised salary in which was made up of the Annual Salary and Bonus combined. 
-The project includes the following steps: data loading, data cleaning and preprocessing, filling/ reviewing for missing values, EDA (exploratory data analysis), analyzing demographics, and creating statistical measures such as Average and Sum of Annual Salary of Employees.   
-**Skills:** Data upload (Uploaded data to PowerBI using SQL Import Database option), data cleaning, data analysis, descriptive statistics, and data visualization.  
-**Technology:** SQL, PowerQuery, PowerBi  
-**Results:** Reviewed and created dashboard on employee demographics.  
+**Description:**  
+This was a guided project in which showcases my knowledge and ability of using the following methods within Excel:  
+Data cleaning via removing duplicates, enriching certain data for better understanding, statistical methods, utilizing and nesting "if" function, creating Pivot tables, creating dashboard, and adding Slicers. 
+This project involved working with a dataset containing slightly more than 1,000 records in a single table. The data reflected customer demographics pertinent to bike purchases, encompassing variables like marital status, gender, income, occupation, and region. The primary tasks were data cleanup, statistical analysis utilizing Excel pivot tables, and the subsequent creation of a dashboard within Excel to present these findings.  
+**Skills:** data cleaning, data analysis, descriptive statistics, pivot table, slicers  
+**Technology:** Excel.  
+**Results:** Review customer demographics and visualize purchases made based on gender, maritial status, and income
 **Quick View:**  
 
-<img src="https://github.com/mher12/HR-Dashboard-P4/blob/main/HR-DB-P4.PNG" alt="light hillside themed dashboard with employee demographics" width="150" height="100">  
+<img src="https://github.com/mher12/bike_sales_dashboard/blob/main/Screenshot%202025-05-14%20202649.png" width="150" height="100">
 
 [Back to table of contents](#table-of-contents)
 
