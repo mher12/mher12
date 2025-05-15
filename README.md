@@ -128,7 +128,7 @@ The project includes the following steps: data loading, data cleaning and prepro
 
 [Back to table of contents](#table-of-contents)
 
-### Sales-dashboard-P5
+### Bike Sales Dashboard P6
 
 **Code:** [`Bike Sales Dashboard`](https://github.com/mher12/HR-Dashboard-P4.git)    
 **Description:** The dataset was a combination of two CSV files. 
