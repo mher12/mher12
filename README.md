@@ -115,9 +115,9 @@ The project includes the following steps: data loading, data cleaning and prepro
 **Description:** For my Google Data Analytics Capstone project, I generated this dataset of mock figures representing a sales quarterly report.  
 **Skills:** 
 Because I had to develop my own mock figures, I addressed the need for realistic data by: generating random loan amounts, ensuring the created closing dates were always business days, and assigning sequential unique identifiers to each record. AI was also utilize to help generate a list of random names as employees along with possible cost in calculating revenue of a loan. 
-Once dataset were completed, Data was cleaned and uploaded to PowerBI via Excel workbook), data cleaning, data analysis, data visualization, and Vlookup.  
+Once dataset were completed, Data was cleaned, filtered, and analyzed and uploaded to Powerbi via Excel workbook where data was visualized.  
 **Technology:** Excel, PowerQuery, PowerBi  
-**Results:** Reviewed and created dashboard on quarterly earnings 
+**Results:** Reviewed and created dashboard on quarterly earnings  
 **Quick View:**  
 
 <img src="https://github.com/mher12/HR-Dashboard-P4/blob/main/HR-DB-P4.PNG" alt="light hillside themed dashboard with employee demographics" width="150" height="100">   
