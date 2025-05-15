@@ -130,7 +130,7 @@ The project includes the following steps: data loading, data cleaning and prepro
 
 ### Bike Sales Dashboard P6
 
-**Code:** [`Bike Sales Dashboard`](https://github.com/mher12/HR-Dashboard-P4.git)    
+**Code:** [`Bike Sales Dashboard`](https://github.com/mher12/HR-Dashboard-P4.git](https://github.com/mher12/bike_sales_dashboard/blob/main/README.md))    
 **Description:**  
 This was a guided project in which showcases my knowledge and ability of using the following methods within Excel:  
 Data cleaning via removing duplicates, enriching certain data for better understanding, statistical methods, utilizing and nesting "if" function, creating Pivot tables, creating dashboard, and adding Slicers. 
