@@ -143,7 +143,7 @@ This project involved working with a dataset containing slightly more than 1,000
 
 ### Bike Sales Pivot Tables P7
 
-**Code:** [`Bike Sales Pivot_Tables`](https://github.com/mher12/bike_sales_dashboard.git)    
+**Code:** [`Bike Sales Pivot_Tables`](https://github.com/mher12/Bike-Sales-Pivot-Tables-P7.git)    
 **Description:**  
 This was a guided project in which showcases my knowledge and ability of using the following methods within Excel:  
 Data cleaning via removing duplicates, enriching certain data for better understanding, statistical methods, utilizing and nesting "if" function, creating Pivot tables, creating dashboard, and adding Slicers. 
@@ -153,7 +153,7 @@ This project involved working with a dataset containing slightly more than 1,000
 **Results:** Review customer demographics and visualize purchases made based on gender, maritial status, and income
 **Quick View:**  
 
-<img src="https://github.com/mher12/bike_sales_dashboard/blob/main/Screenshot%202025-05-14%20202649.png" width="150" height="100">
+<img src="[https://github.com/mher12/bike_sales_dashboard/blob/main/Screenshot%202025-05-14%20202649.png](https://github.com/mher12/Bike-Sales-Pivot-Tables-P7/blob/main/Screenshot%202025-06-02%20145613.png" width="150" height="100">
 
 [Back to table of contents](#table-of-contents)
 
