@@ -153,7 +153,7 @@ This project involved working with a dataset containing slightly more than 1,000
 **Results:** Review customer demographics and visualize purchases made based on gender, maritial status, and income
 **Quick View:**  
 
-<img src="[https://github.com/mher12/bike_sales_dashboard/blob/main/Screenshot%202025-05-14%20202649.png](https://github.com/mher12/Bike-Sales-Pivot-Tables-P7/blob/main/Screenshot%202025-06-02%20145613.png" width="150" height="100">
+<img src="https://github.com/mher12/Bike-Sales-Pivot-Tables-P7/blob/main/Screenshot%202025-06-02%20145613.png" width="150" height="100">
 
 [Back to table of contents](#table-of-contents)
 
