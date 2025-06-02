@@ -22,6 +22,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
   	+ [HR Dashboard P4](#hr-dashboard-P4)
   	+ [Mortgage Loan Sales-Dashboard-P5](#Mortgage-Loan-Sales-Dashboard-P5)
   	+ [Bike Sales Dashboard P6](#bike-sales-dashboard-P6)
+  	+ [Bike Sales Pivot Tables P7](#bike-sales-pivot-tables-P7)
 - [Self Paced Study Projects](#self-paced-study-projects)
 	+ [Learning SQL](#Learning-SQL)
 - [Resources](#resources)	
@@ -127,6 +128,22 @@ Once dataset were completed, Data was cleaned, filtered, and analyzed and upload
 ### Bike Sales Dashboard P6
 
 **Code:** [`Bike Sales Dashboard`](https://github.com/mher12/bike_sales_dashboard.git)    
+**Description:**  
+This was a guided project in which showcases my knowledge and ability of using the following methods within Excel:  
+Data cleaning via removing duplicates, enriching certain data for better understanding, statistical methods, utilizing and nesting "if" function, creating Pivot tables, creating dashboard, and adding Slicers. 
+This project involved working with a dataset containing slightly more than 1,000 records in a single table. The data reflected customer demographics pertinent to bike purchases, encompassing variables like marital status, gender, income, occupation, and region. The primary tasks were data cleanup, statistical analysis utilizing Excel pivot tables, and the subsequent creation of a dashboard within Excel to present these findings.  
+**Skills:** data cleaning, data analysis, descriptive statistics, pivot table, slicers  
+**Technology:** Excel.  
+**Results:** Review customer demographics and visualize purchases made based on gender, maritial status, and income
+**Quick View:**  
+
+<img src="https://github.com/mher12/bike_sales_dashboard/blob/main/Screenshot%202025-05-14%20202649.png" width="150" height="100">
+
+[Back to table of contents](#table-of-contents)
+
+### Bike Sales Pivot Tables P7
+
+**Code:** [`Bike Sales Pivot_Tables`](https://github.com/mher12/bike_sales_dashboard.git)    
 **Description:**  
 This was a guided project in which showcases my knowledge and ability of using the following methods within Excel:  
 Data cleaning via removing duplicates, enriching certain data for better understanding, statistical methods, utilizing and nesting "if" function, creating Pivot tables, creating dashboard, and adding Slicers. 
