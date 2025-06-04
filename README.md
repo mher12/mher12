@@ -24,7 +24,8 @@ I would love to connect to see what I can do to help you, or if you have any fee
   	+ [Bike Sales Dashboard P6](#bike-sales-dashboard-P6)
   	+ [Bike Sales Pivot Tables P7](#bike-sales-pivot-tables-P7)
 - [Self Paced Study Projects](#self-paced-study-projects)
-	+ [Learning SQL](#Learning-SQL)
+	+ [Learning SQL](#Learning-SQL)  
+	+ [Data Cleaning With Excel - Formulas](#formulas-in-excel)
 - [Resources](#resources)	
 - [Connect with me](#connect-with-me)
 
@@ -167,7 +168,15 @@ In this section I will provide links to my github repositories containing assigm
 This self-paced course explores topics covering the basics to intermediate syntax of SQL and how to generate insight using SQL syntax.   
 **Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/PortfolioProjectsSQL/tree/main)   
 **Status:** Some courses are still in progress  
+[Back to table of contents](#table-of-contents)  
+
+### Data Cleaning With Excel - Formulas 
+**Description:** This self-paced tutorial showcases Excel skills and methods for efficient data analysis and cleaning. Key functions mastered include MAX and MIN for identifying value extremes, IF and IFS for applying single and multiple conditional logic, and LEN, LEFT, and RIGHT for precise text extraction and validation. Proficiency in data formatting is demonstrated through the use of TEXT to convert dates for better manipulation, TRIM for cleaning irregular spacing, and CONCATENATE for merging text data seamlessly. The SUBSTITUTE function highlights the ability to perform targeted text replacements with accuracy. Additionally, strong analytical capabilities are shown with SUM, SUMIF, and SUMIFS for conditional summations, and COUNT, COUNTIF, COUNTIFS for counting based on criteria. Date calculations using DAYS and NETWORKDAYS further illustrate practical knowledge in tracking elapsed and working days. 
+
+**Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/PortfolioProjectsSQL/tree/main)   
+**Status:** Some courses are still in progress  
 [Back to table of contents](#table-of-contents)
+
 
 ## Resources
 Resources to help you kick start your journey in Data Analytics!  
