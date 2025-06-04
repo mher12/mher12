@@ -151,7 +151,6 @@ This guided project follows Alex the Analyst’s Excel tutorials for data analys
 **Technology:** Excel.  
 **Results:** Summarizing sales of bikes using pivot tables and charts   
 **Technology:** Excel.  
-**Results:** Review customer demographics and visualize purchases made based on gender, maritial status, and income
 **Quick View:**  
 
 <img src="https://github.com/mher12/Bike-Sales-Pivot-Tables-P7/blob/main/Screenshot%202025-06-02%20145613.png" width="150" height="100">
