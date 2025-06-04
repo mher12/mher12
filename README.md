@@ -25,7 +25,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
   	+ [Bike Sales Pivot Tables P7](#bike-sales-pivot-tables-P7)
 - [Self Paced Study Projects](#self-paced-study-projects)
 	+ [Learning SQL](#Learning-SQL)  
-	+ [Data Cleaning With Excel - Formulas](#formulas-in-excel)
+	+ [Data Cleaning With Excel - Formulas](#data-cleaning-with-excel---formulas)
 - [Resources](#resources)	
 - [Connect with me](#connect-with-me)
 
