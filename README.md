@@ -172,8 +172,7 @@ This self-paced course explores topics covering the basics to intermediate synta
 ### Data Cleaning With Excel - Formulas 
 **Description:** This self-paced tutorial showcases Excel skills and methods for efficient data analysis and cleaning. Key functions mastered include MAX and MIN for identifying value extremes, IF and IFS for applying single and multiple conditional logic, and LEN, LEFT, and RIGHT for precise text extraction and validation. Proficiency in data formatting is demonstrated through the use of TEXT to convert dates for better manipulation, TRIM for cleaning irregular spacing, and CONCATENATE for merging text data seamlessly. The SUBSTITUTE function highlights the ability to perform targeted text replacements with accuracy. Additionally, strong analytical capabilities are shown with SUM, SUMIF, and SUMIFS for conditional summations, and COUNT, COUNTIF, COUNTIFS for counting based on criteria. Date calculations using DAYS and NETWORKDAYS further illustrate practical knowledge in tracking elapsed and working days. 
 
-**Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/PortfolioProjectsSQL/tree/main)   
-**Status:** Some courses are still in progress  
+**Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/Data-Cleaning-With-Excel---Formulas.git)   
 [Back to table of contents](#table-of-contents)
 
 
