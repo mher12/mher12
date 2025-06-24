@@ -179,7 +179,7 @@ This self-paced course explores topics covering the basics to intermediate synta
 ### Data Cleaning With Excel - XLOOKUP 
 **Description:** This self-paced Excel project focuses on practical data analysis and cleaning techniques, ideal for aspiring data analysts. The tutorials emphasize hands-on application of key Excel functions in real-world scenarios. A major portion is dedicated to mastering the XLOOKUP function, covering vertical and horizontal lookups, exact matches, multi-row searches, and how to control search order using binary versus linear logic. It also explores how to use XLOOKUP for conditional summation and compares its capabilities to the traditional VLOOKUP function.
 
-**Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/Data-Cleaning-With-Excel---Formulas.git)   
+**Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/Data-Cleaning-With-Excel---XLOOKUP.git)   
 [Back to table of contents](#table-of-contents)
 
 
