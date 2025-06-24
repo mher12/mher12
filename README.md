@@ -26,6 +26,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
 - [Self Paced Study Projects](#self-paced-study-projects)
 	+ [Learning SQL](#Learning-SQL)  
 	+ [Data Cleaning With Excel - Formulas](#data-cleaning-with-excel---formulas)
+	+ [Data Cleaning With Excel - XLOOKUP](#data-cleaning-with-excel---xlookup)
 - [Resources](#resources)	
 - [Connect with me](#connect-with-me)
 
@@ -174,6 +175,14 @@ This self-paced course explores topics covering the basics to intermediate synta
 
 **Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/Data-Cleaning-With-Excel---Formulas.git)   
 [Back to table of contents](#table-of-contents)
+
+### Data Cleaning With Excel - XLOOKUP 
+**Description:** This self-paced Excel project focuses on practical data analysis and cleaning techniques, ideal for aspiring data analysts. The tutorials emphasize hands-on application of key Excel functions in real-world scenarios. A major portion is dedicated to mastering the XLOOKUP function, covering vertical and horizontal lookups, exact matches, multi-row searches, and how to control search order using binary versus linear logic. It also explores how to use XLOOKUP for conditional summation and compares its capabilities to the traditional VLOOKUP function.
+
+**Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/Data-Cleaning-With-Excel---Formulas.git)   
+[Back to table of contents](#table-of-contents)
+
+
 
 
 ## Resources
