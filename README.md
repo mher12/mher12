@@ -191,10 +191,13 @@ This self-paced course explores topics covering the basics to intermediate synta
 [Back to table of contents](#table-of-contents)
 
 ### Data Cleaning With Excel - Charts in Excel
-**Description:** This self-paced Excel tutorial guides users through the process of creating, editing, and customizing charts to effectively visualize data within Excel. It begins with selecting the appropriate data and moves into inserting various chart types. Key technique includes applying customization using the Chart Design tab—without altering the underlying data—including features like Switch Row/Column, Select Data, and Change Chart Type. The tutorial also covers how to properly title charts, move them to separate worksheets using the Move Chart feature, and duplicate charts to preserve the original while editing a copy. 
+**Description:** This self-paced Excel tutorial guides users through the process of creating, editing, and customizing charts to effectively visualize data within Excel. It begins with selecting the appropriate data and moves into inserting various chart types. Key technique includes applying customization using the Chart Design tab—without altering the underlying data—including features like Switch Row/Column, Select Data, and Change Chart Type. The tutorial also covers how to properly title charts, move them to separate worksheets using the Move Chart feature, and duplicate charts to preserve the original while editing a copy.  
+
+**Quick View:**  
+<img src="Screenshot 2025-06-25 122632.png" width="150" height="100">  
 
 
-**Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/Data-Cleaning-With-Excel---XLOOKUP.git)   
+**Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/Data-Cleaning-With-Excel---Charts-in-Excel.git)  
 [Back to table of contents](#table-of-contents)
 
 ## Resources
