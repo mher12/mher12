@@ -28,6 +28,7 @@ I would love to connect to see what I can do to help you, or if you have any fee
 	+ [Data Cleaning With Excel - Formulas](#data-cleaning-with-excel---formulas)
 	+ [Data Cleaning With Excel - XLOOKUP](#data-cleaning-with-excel---xlookup)
 	+ [Data Cleaning With Excel - Conditional Fomatting](#data-cleaning-with-excel---conditional-formatting)
+	+ [Data Cleaning With Excel - Charts in Excel](#data-cleaning-with-excel---charts-in-excel)
 - [Resources](#resources)	
 - [Connect with me](#connect-with-me)
 
@@ -185,6 +186,13 @@ This self-paced course explores topics covering the basics to intermediate synta
 
 ### Data Cleaning With Excel - Conditional Formatting 
 **Description:** This self-paced Excel project focuses on using conditional formatting to visually identify patterns, trends, and outliers within a dataset. Key techniques include applying icon sets to show directional changes (increases, decreases, steady values), using color scales to highlight values from lowest to highest through gradient shading, and data bars to represent values proportionally within cells. The project also covers Top/Bottom Rules for quickly spotting top performers or underperformers, and cell highlighting tools to flag values based on logical conditions like "greater than," "equal to," or "duplicates." Additionally, it demonstrates how to use custom formulas to apply formatting rules, making it a powerful approach for dynamic data analysis and data cleaning.  
+
+**Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/Data-Cleaning-With-Excel---XLOOKUP.git)   
+[Back to table of contents](#table-of-contents)
+
+### Data Cleaning With Excel - Charts in Excel
+**Description:** This self-paced Excel tutorial guides users through the process of creating, editing, and customizing charts to effectively visualize data within Excel. It begins with selecting the appropriate data and moves into inserting various chart types. Key technique includes applying customization using the Chart Design tab—without altering the underlying data—including features like Switch Row/Column, Select Data, and Change Chart Type. The tutorial also covers how to properly title charts, move them to separate worksheets using the Move Chart feature, and duplicate charts to preserve the original while editing a copy. 
+
 
 **Repository:** Check the repository ---> [go to repo..](https://github.com/mher12/Data-Cleaning-With-Excel---XLOOKUP.git)   
 [Back to table of contents](#table-of-contents)
